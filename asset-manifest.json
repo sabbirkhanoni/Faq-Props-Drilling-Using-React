@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Faq-Props-Drilling-Using-React/static/css/main.7361a174.css",
+    "main.js": "/Faq-Props-Drilling-Using-React/static/js/main.ff0974f9.js",
+    "static/js/453.9d390f05.chunk.js": "/Faq-Props-Drilling-Using-React/static/js/453.9d390f05.chunk.js",
+    "index.html": "/Faq-Props-Drilling-Using-React/index.html",
+    "main.7361a174.css.map": "/Faq-Props-Drilling-Using-React/static/css/main.7361a174.css.map",
+    "main.ff0974f9.js.map": "/Faq-Props-Drilling-Using-React/static/js/main.ff0974f9.js.map",
+    "453.9d390f05.chunk.js.map": "/Faq-Props-Drilling-Using-React/static/js/453.9d390f05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7361a174.css",
+    "static/js/main.ff0974f9.js"
+  ]
+}
